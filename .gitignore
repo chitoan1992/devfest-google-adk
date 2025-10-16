@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# IDE files
+.vscode/
+.claude/
+.env
+
+# Virtual environments
+.venv
+CLAUDE.md
+*sol.ipynb
